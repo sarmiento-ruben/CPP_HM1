@@ -13,7 +13,7 @@ int main() {
         {276, 330, 355, 380, 396}
     };
 
-    int transposedM[5][4]; // As it is tranposed the size is inverted
+    int transposedM[5][4]; // Since it is tranposed the size is inverted
 
     // Show the initial matrix
     printf("Initial matrix:\n");
